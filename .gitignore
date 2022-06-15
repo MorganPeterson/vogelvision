@@ -1,0 +1,5 @@
+vgg16/data/*
+vgg16/birds_half_dataset.pt
+vgg16/__pycache__
+api/data/*
+api/__pycache__
